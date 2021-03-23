@@ -14,5 +14,15 @@ Have a Configuration menu on "config.py":
 4) give you the alternative to change automatic your mac at the first time you run the program on "config.py" variable name "StartupAutomac "
 
 NOTE: The program its fully in SPANISH, so if you speak ENLGISH this can help you a lot.
+
 NOTE: Works with Command "SUDO",if you have other distribution, just remplace every SUDO for one you linux USE
+
+
 ## TESTED on: Ubuntu, Kali.
+
+# How to RUN it??
+*python3 mymac.py 
+*sudo python3 mymac.py
+
+# Requirements :
+*Set on config.py your DIVICE NETWORK name.
