@@ -108,8 +108,7 @@ def startUpMac():
         
 def programa():
     no_adaptador()
-    chequea_libreria()	
-    wifi_down()
+    chequea_libreria()    
     startUpMac()
     clear()
     print("")	
