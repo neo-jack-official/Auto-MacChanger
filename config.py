@@ -17,6 +17,6 @@
 #=================CONFIGURACIONES===============================
 interfas = "COLOCA_TU_ADAPTADOR_A_AQUI" #Este campto es OBLIGATORIO para el correcto funcionamiento de la APP
 #------------------Configuraciones-------------------------------
-checklib = "no"       # Verificar Instalacion de: Librerias, GetMac, MacChanger. Al iniciar Aplicacion.
-StartupAutomac = "no" # Cambiar Mac al iniciar programa. 
+checklib = "si"       # Verificar Instalacion de: Librerias, GetMac, MacChanger. Al iniciar Aplicacion.
+StartupAutomac = "si" # Cambiar Mac al iniciar programa. 
 #=================================================================
